@@ -1,5 +1,11 @@
-# 💫 About Me:
-I am a third-year Computer Science Engineering student at CETYS Universidad. <br>I am passionate about exploring the realms of code, web development and machine learning.<br>Seeking to incorporate my creativity into web development and always willing to learn new uses for machine learning.
+# 💫 About Me
+
+🎓 I'm a Computer Science graduate from CETYS Universidad.  
+💻 Passionate about web development, data visualization, and building meaningful tools.  
+🧠 Currently exploring applications of machine learning and cybersecurity.  
+📈 Created real-world projects using Power BI, Power Apps, React, Python, and C#.  
+🌱 Always learning — open to collaboration and new opportunities to grow!
+
 
 
 ## 🌐 Socials:
